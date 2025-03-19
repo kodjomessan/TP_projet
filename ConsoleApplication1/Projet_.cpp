@@ -6,6 +6,7 @@
 int main()
 {
     int nb = 13;
+    int nb = 2;
     std::cout << "Hello World!\n";
 }
 
