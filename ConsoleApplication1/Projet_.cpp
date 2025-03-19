@@ -7,6 +7,7 @@ int main()
 {
     int nb = 13;
     std::cout << "Hello World!\n";
+    std::cout << "fatima qui casse tout\n";
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
