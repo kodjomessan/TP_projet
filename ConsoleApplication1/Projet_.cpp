@@ -3,6 +3,10 @@
 
 #include <iostream>
 
+// Méthode naïve 
+
+
+
 int main()
 {
     int nb = 13;
